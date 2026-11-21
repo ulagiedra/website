@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/ulagiedra/website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://ulagiedra.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/ulagiedra/website/</loc>
+<loc>https://ulagiedra.com/</loc>
 </url>
 <url>
-<loc>https://github.com/ulagiedra/website/hello-i-am-the-best/</loc>
+<loc>https://ulagiedra.com/hello-i-am-the-best/</loc>
 <lastmod>2026-11-21T14:48:13+01:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/ulagiedra/website/idk/</loc>
+<loc>https://ulagiedra.com/idk/</loc>
 <lastmod>2026-11-21T14:48:24+01:00</lastmod>
 </url>
 </urlset>

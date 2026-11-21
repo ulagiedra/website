@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ulagiedra</title>
-    <link href="https://github.com/ulagiedra/website/feed.xml" rel="self" />
-    <link href="https://github.com/ulagiedra/website" />
+    <link href="https://ulagiedra.com/feed.xml" rel="self" />
+    <link href="https://ulagiedra.com" />
     <updated>2026-11-21T14:48:13+01:00</updated>
     <author>
         <name>Ūla Giedraitytė</name>
     </author>
-    <id>https://github.com/ulagiedra/website</id>
+    <id>https://ulagiedra.com</id>
 
     <entry>
         <title>Hello I am the best</title>
         <author>
             <name>Ūla Giedraitytė</name>
         </author>
-        <link href="https://github.com/ulagiedra/website/hello-i-am-the-best/"/>
-        <id>https://github.com/ulagiedra/website/hello-i-am-the-best/</id>
+        <link href="https://ulagiedra.com/hello-i-am-the-best/"/>
+        <id>https://ulagiedra.com/hello-i-am-the-best/</id>
 
         <updated>2026-11-21T14:48:13+01:00</updated>
             <summary type="html">
